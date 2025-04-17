@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+img_features/
+nltk_data/
+*.pkl
